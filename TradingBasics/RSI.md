@@ -2,21 +2,27 @@
 
 - works only in range bound markets
 - RSI is a Momentum Indicator but it can work in all markets
-- Invented by J.Welles Wilder
+- Invented by J.Welles Wilder(New Concepts in Technical Trading Systems)
 
 # Leading vs Lagging Indication
 
+- Lagging indicators follow prices and leading indicators lead prices 
 - Lagging indicators cannot be used to predict stock price movements.
 - RSI is leading vs MACD is lagging
+- Wilder uses exponential moving average for calculating RSI making it smooth and consistent
 
 # RSI
- - predict price movement
- - entry and exit points
+ - predict price movement - often in advance of the move
+ - entry and exit points - buy sell indication
  - Identify Trend - by momentum - up or down movement
  - Identify trend changes or reversal - 
  - Finding Buy Options
 
-# 3 choices
+# Important Note
+- RSI tells when a stock is going strong or weak, indicating when to buy or sell.
+- RSI shows the strength of stock/index **RELATIVE** to the historical strength of same stock/index.
+
+# 3 choices in Market
 
 - what to buy
 - when to buy
@@ -38,8 +44,8 @@
 RSI is measured on a scale of 0 to 100
 
 50 : center line
-70 : overbought
-30 : oversold
+Above 70 : overbought
+Below 30 : oversold
 Default Period = 14 days
 
 
@@ -48,6 +54,38 @@ Default Period = 14 days
 
 
 
+# RSI Calculation Method - The Secret of RSI
+
+**MOMENTUM** == Rate of price rise or fall
+
+RSI is calculated on basis of the closing price of the candle
+
+- 1 min chart = closing price of 1 min
+- 1 day chart = Days closing price
+
+**Closing Price** = Fina verdict of the traders for the day
+
+# Important Note
+
+Using RSI in intraday chart is difficult bcoz it relies on closing price of the day
+
+- Example if RSI changes during intraday at important levels, better to wait till last few mins on trading session to confirm tht RSI will not change again significantly
+- Why ? Bcoz Markets have gap up methods on next day opening to clear the resistance of stocks
+
+RSI = Ratio of Gains and Losses over period of 14 days
+
+**More gaines Higher the RSI and More Loses Lower the RSI **
+
+- With every GAIN the DOWN Average comes down
+- However **UP AVERAGE can also come DOWN** if the **GAINS for the DAY are BELOW UP AVERAGE**
+
+**NOTE** 
+
+- Amount of GAINS and LOSSES is IMPORTANT
+  - Example : RSI of stock with 10% GAINS is **HIGHER** than stock with 1% GAINS
+
+- RSI is calculate EXPONENTIALY so the WEIGHTAGE of Todays GAIN/LOSS are Higher than the historical period
+- 
 
 
 
