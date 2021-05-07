@@ -28,13 +28,21 @@
 - RSI period - RSI can be set to different periods which can give different results e.g 14 days for daily chart
 - Depends on Target Market
 - Smoothening and Data Length mismatch can give different values for RSI - It can show u a divergence where there is none
-- 
-- 
+
 
 # RSI Patterns
 
 - Positive and Negative Reversals(Cardwell) - bullish and bearish divergences
 - Price/RSI Divergences(Wilder)
+
+RSI is measured on a scale of 0 to 100
+
+50 : center line
+70 : overbought
+30 : oversold
+Default Period = 14 days
+
+
 
 ![image](https://user-images.githubusercontent.com/34193287/117440234-695f5800-af51-11eb-8750-7ac9c26a8531.png)
 
