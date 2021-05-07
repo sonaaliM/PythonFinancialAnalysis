@@ -85,6 +85,16 @@ RSI = Ratio of Gains and Losses over period of 14 days
   - Example : RSI of stock with 10% GAINS is **HIGHER** than stock with 1% GAINS
 
 - RSI is calculate EXPONENTIALY so the WEIGHTAGE of Todays GAIN/LOSS are Higher than the historical period
+
+
+# Analysis of RSI calculation
+
+- Flattening of curve - generally seen in over brought and oversold zones 
+- bcoz prices are not increasing sharply
+- means momentum is not increasing
+- rate of positive price change has decreased
+- **DOES NOT** mean price reversal immediately but in short term as momentum is declining
+- Positive price should be going up consistently if it falls means RSI is flattening
 - 
 
 
