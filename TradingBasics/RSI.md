@@ -1,7 +1,7 @@
 # Momentum Oscillator 
 
-- works only in range bound markets
-- RSI is a Momentum Indicator but it can work in all markets
+- works only in range bound markets, else will show extreme fluctuations
+- RSI is a Momentum Indicator 
 - Invented by J.Welles Wilder(New Concepts in Technical Trading Systems)
 
 # Leading vs Lagging Indication
