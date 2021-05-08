@@ -63,7 +63,7 @@ RSI is calculated on basis of the closing price of the candle
 - 1 min chart = closing price of 1 min
 - 1 day chart = Days closing price
 
-**Closing Price** = Fina verdict of the traders for the day
+**Closing Price** = Final verdict of the traders for the day
 
 # Important Note
 
@@ -74,9 +74,9 @@ Using RSI in intraday chart is difficult bcoz it relies on closing price of the 
 
 RSI = Ratio of Gains and Losses over period of 14 days
 
-**More gaines Higher the RSI and More Loses Lower the RSI **
+**Higher GAINS HIGHER the RSI and Higher Loses LOWER the RSI**
 
-- With every GAIN the DOWN Average comes down
+- With Every GAIN the DOWN Average comes down
 - However **UP AVERAGE can also come DOWN** if the **GAINS for the DAY are BELOW UP AVERAGE**
 
 **NOTE** 
@@ -95,7 +95,7 @@ RSI = Ratio of Gains and Losses over period of 14 days
 - rate of positive price change has decreased
 - **DOES NOT** mean price reversal immediately but in short term as momentum is declining
 - Positive price should be going up consistently if it falls means RSI is flattening
-- 
+- **Higher the RSI goes Higher GAINS are needed for further increase**
 
 
 
